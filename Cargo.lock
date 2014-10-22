@@ -1,0 +1,12 @@
+[root]
+name = "sisbo"
+version = "0.0.1"
+dependencies = [
+ "ears 0.3.0 (git+https://github.com/JeremyLetang/ears.git#f682453929572e19e65b7a6f33d0b31031847d72)",
+]
+
+[[package]]
+name = "ears"
+version = "0.3.0"
+source = "git+https://github.com/JeremyLetang/ears.git#f682453929572e19e65b7a6f33d0b31031847d72"
+

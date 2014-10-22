@@ -1,0 +1,8 @@
+[package]
+
+name = "sisbo"
+version = "0.0.1"
+authors = ["nulldata"]
+
+[dependencies.ears]
+git = "https://github.com/JeremyLetang/ears.git"
